@@ -1,0 +1,256 @@
+.your-life{
+	width: 535px;
+	margin: 1px 1px 0px 1px;
+	padding: 1px;
+	font-family: 'Homemade Apple', cursive;
+	font-size: 35px;
+	text-align: center;
+	color: #9966ff;
+	background: lightgray;
+	letter-spacing: 2px;
+}
+
+.topbox{
+	height: 72px;
+	margin: 0px 1px 0px 1px;
+
+}
+.what-you-love{
+	background: #eee6ff;
+	width: 130px;
+	height: 60px;
+	margin: 0px 0px 0px 0px;
+	padding: 5px 1px 5px 1px;
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+	text-align: center;
+	float: left;
+}
+
+.do-it-often{
+	background: #eee6ff;
+	width: 402px;
+	height: 60px;
+	margin: 0px 0px 0px 1px;
+	padding: 5px 1px 5px 1px;
+	float: left;
+	text-align: center;
+	font-family: 'Bree Serif', serif;
+	font-size: 40px;
+}
+
+.dont-like-something-box{
+	background: #9966ff;
+	width: 532px;
+	height: 100px;
+	padding: 1px 1px 1px 5px;
+	margin: 0px 1px 0px 1px;
+}
+
+.dont-like-something{
+	width: 532px;
+	height: 10px;
+	text-align: center;
+	padding: 3px 3px 1px 5px;
+	margin: 0px 1px 0px 1px;
+	letter-spacing: 1px;
+	word-spacing: 2px;
+	font-size: 20px;
+	color: white;
+}
+
+.change-it{
+	width: 532px;
+	height: 90px;
+	text-align: center;
+	padding: 22px 3px 1px 5px;
+	margin: 0px 1px 0px 1px;
+	font-family: 'Indie Flower', cursive;
+	font-size: 40px;
+	letter-spacing: 1px;
+	color: white;
+}
+
+.columns{
+	height: 100px;
+	width: 539px;
+	background: #ccccff;
+	overflow: auto;
+}
+
+.like-your-job{
+	height: 72px;
+	width: 176px;
+	float: left;
+	border: 2px dotted yellow;
+	padding: 22px 0px 2px 0px;
+	margin: 0px;
+	text-align: center;
+	font-size: 20px;
+	font-family: 'Acme', sans-serif;
+	color: white;
+}
+
+.have-enough-time{
+	height: 79px;
+	width: 166px;
+	float: left;
+	border: 2px dotted yellow;
+	padding: 9px 0px 8px 0px;
+	margin: 0px;
+	text-align: center;
+	font-size: 16px;
+	font-family: 'Cinzel', serif;
+	line-height: 30px;
+	color: white;
+}
+
+.love-of-life{
+	height: 79px;
+	width: 167px;
+	float: left;
+	border: 2px dotted yellow;
+	padding: 15px 9px 2px 9px;
+	margin: 0px;
+	text-align: center;
+	font-size: 20px;
+	font-variant: small-caps;
+	color: white;
+}
+
+.the-one-you-love{
+	height: 50px;
+	background: #ffff99;
+	text-align: center;
+	width: 530px;
+	padding: 3px 0px 25px 4px;
+	font-family: 'Lobster', cursive;
+	font-size: 22px;
+	border: 3px solid #9966ff;
+	color: #b3b3b3;
+}
+
+.one-you-love{
+	height: 50px;
+	margin: 10px 0px 0px 0px;
+}
+
+.more-columns{
+	height: 100px;
+	width: 539px;
+	background: lightgray;
+	overflow: auto;
+}
+
+.over-analyzing{
+	height: 72px;
+	width: 176px;
+	float: left;
+	border: 2px dotted yellow;
+	padding: 22px 0px 2px 0px;
+	margin: 0px;
+	text-align: center;
+	font-size: 20px;
+	font-family: 'Acme', sans-serif;
+	color: white;
+}
+
+.open-your-arms{
+	height: 80px;
+	background: #9966ff;
+	text-align: center;
+	width: 530px;
+	padding: 2px 5px 35px 4px;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 30px;
+	color: black;
+}
+
+#last-columns{
+	height: 80px;
+	width: 539px;
+	background: #ccccff;
+}
+
+.ask-the-person{
+	height: 70px;
+	width: 258px;
+	float: left;
+	margin: 1px 1px 4px 1px;
+	text-align: center;
+	font-family: 'Bree Serif', serif;
+	color: #8600b3;
+	border: 2px dashed #8600b3;
+	padding: 2px 2px 2px 2px;
+}
+
+.travel-often{
+	height: 70px;
+	width: 258px;
+	float: left;
+	margin: 1px 1px 4px 1px;
+	text-align: center;
+	font-family: 'Poor Story', cursive;
+	color: #8600b3;
+	border: 2px dashed #8600b3;
+	padding: 5px 4px 0px 3px;
+}
+
+#life-is-about-columns{
+	height: 300px;
+	width: 537px;
+	background: #ffff99;
+}
+
+.life-is-about{
+	height: 100px;
+	width: 200px;
+	float: left;
+	font-family: 'Acme', sans-serif;
+	font-size: 20px;
+	color: #9966ff;
+	text-align: center;
+	margin: 80px 1px 10px 1px;
+	border: 4px solid #9966ff;
+	padding: 20px 10px 3px 5px;
+}
+
+.start-creating{
+	height: 280px;
+	width: 300px;
+	float: left;
+	font-family: 'Rock Salt', cursive;
+	font-size: 40px;
+	color: #9966ff;
+	text-align: center;
+	margin: 6px 5px 10px 5px;
+}
+
+#life-div{
+	height: 82px;
+	width: 537px;
+}
+
+.life{
+	text-align: center;
+	font-family: 'Galada', cursive;
+	font-size: 50px;
+	background: #eee6ff;
+	margin: 0px;
+}
+
+#last-box{
+	height: 200px;
+	width: 537px;
+}
+
+.live-your-dream{
+	text-align: center;
+	background: lightgray;
+	font-family: 'Cinzel', serif;
+	font-size: 50px;
+	background: lightgray;
+	color: #9966ff;
+	margin: 0px;
+	padding: 10px 10px 10px 10px;
+}
